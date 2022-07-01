@@ -1,0 +1,15 @@
+.logo-area b{
+    font-size: 1.6rem;
+  }
+  #btn {
+    border-radius: 3px;
+    padding: 0% 4%;
+  }
+  #search {
+    border-radius: 3px;
+  }
+  #opt {
+    border-radius: 3px;
+    height: 37px;
+    border: 1px solid #43A8FF;
+  }
